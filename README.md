@@ -46,21 +46,21 @@ The **LumaryBadge** is a custom SVG logo featuring:
 
 ## 📸 Visual Preview
 
-### Hero Section
-![Hero](public/images/hero-woman.png)
-*Full-screen hero with parallax woman illustration, floating leaves, and animated stats counter*
+### Live Deployment Screenshot
+![Lumary Food - Full Page](lumary-food-screenshot.png)
+*Complete live deployment showing: Hero with parallax & stats, Marquee, Why Choose Us, Menu with tilt cards & category filter, Testimonials carousel, App Download with phone mockup, Service strip, Footer*
 
-### Menu Grid
-![Menu](public/images/pizza.jpg)
-*Interactive food cards with 3D tilt, favorite hearts, and category filtering*
+### Key UI Sections (from live deployment)
 
-### Testimonials
-![Testimonials](public/images/happy-customer.png)
-*Auto-rotating carousel with customer avatars and ratings*
-
-### App Download
-![App Banner](public/images/hero-woman.png)
-*Phone mockup with animated float, store badges, and gradient background*
+| Section | Features |
+|---------|----------|
+| **Hero** | Parallax woman illustration, animated counters (10K+ customers, 4.8★), floating leaves, heart favorite button, delivery/offer floating cards |
+| **Marquee** | Infinite scrolling "Delicious Food · 20–30 Min Delivery · Lumary · Fire-Fresh Kitchens · 50% Off First Order · Made To Glow" |
+| **Why Choose Us** | 3 illustrated features: Scooter (Lightning Fast), Bowl (Wide Variety), Medal (Top Quality) with scroll reveal |
+| **Menu** | Category tabs (All/Burgers/Pizza/Asian/Desserts/Drinks), 3D tilt food cards, favorite hearts, discount badges, ratings, slide pagination |
+| **Testimonials** | Auto-rotating carousel (7.5s), customer avatars, 5-star ratings, quote cards, navigation dots/arrows |
+| **App Download** | Animated phone mockup with floating animation, Google Play/App Store badges, gradient background |
+| **Footer** | Brand, newsletter signup, 4-column links, social icons |
 
 ---
 
